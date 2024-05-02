@@ -1,7 +1,7 @@
-title: 공부 정리
+title: 컴퓨터란 무엇인가
 author: "Choi Seong Jun"
 # description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
-description: "HELLO WORLD :)"
+description: "<b style=\"color: #f45;\"> 그것이 문제로다 </b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
