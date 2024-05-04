@@ -1,7 +1,7 @@
-title: 컴퓨터란 무엇인가
+title: 컴퓨터 쥐어짜기
 author: "Choi Seong Jun"
 # description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
-description: "<b style=\"color: #f45;\"> 그것이 문제로다 </b>"
+description: "<b style=\"color: #f45;\"> 이런 게 가능하다니 </b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
