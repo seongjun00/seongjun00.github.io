@@ -1,7 +1,7 @@
-title: 컴퓨터 쥐어짜기
+title: 컴퓨터 공부
 author: "Choi Seong Jun"
 # description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
-description: "<b style=\"color: #f45;\"> 이런 게 가능하다니 </b>"
+description: "<b style=\"color: #f45;\"> 컴퓨터 공부 </b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -31,3 +31,5 @@ comments:
 
 plugins:
  - jekyll-feed
+
+future: true
